@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+presidio-analyzer
+presidio-anonymizer
+langdetect
+scikit-learn
+sentence-transformers
+pyyaml
+pandas
+pytest
+requests

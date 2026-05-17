@@ -1,0 +1,7 @@
+thresholds:
+  block: 0.65
+  mask: 0.2
+
+weights:
+  pii: 0.1
+  secret: 0.15
